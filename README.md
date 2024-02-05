@@ -1,6 +1,5 @@
 # Marvin_assigment
-##for api request with path and query /wordFrequency?topic=python&top_n=5
-##output will be {
+for api request with path and query /wordFrequency?topic=python&top_n=5 output will be {
   "the": "22 occurrences",
   "python": "17 occurrences",
   "of": "11 occurrences",
