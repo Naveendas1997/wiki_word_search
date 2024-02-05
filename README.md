@@ -1,5 +1,5 @@
 # Marvin_assigment
-for api request with path and query "/wordFrequency?topic=python&top_n=5" output will be 
+#for api request with path and query "/wordFrequency?topic=python&top_n=5" output will be 
 {
   "the": "22 occurrences",
   "python": "17 occurrences",
@@ -10,7 +10,7 @@ for api request with path and query "/wordFrequency?topic=python&top_n=5" output
   "and": "6 occurrences",
   "to": "5 occurrences"
 }
-for api request with path "/searchHistory" after above api call the output will be
+#for api request with path "/searchHistory" after above api call the output will be
 [
   {
     "topic": "python",
